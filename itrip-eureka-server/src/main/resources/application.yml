@@ -1,0 +1,4 @@
+### 设定使用的配置文件后缀
+spring:
+  profiles:
+    active: dev
